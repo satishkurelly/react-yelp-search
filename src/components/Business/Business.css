@@ -1,0 +1,21 @@
+.Business {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 40rem;
+  margin: 0 .5rem 2.3rem .5rem;
+  color: black;
+  text-align: left;
+}
+
+.Business .image-container {
+  height: 16.66rem;
+  margin-bottom: 1rem;
+}
+.card-title{
+  font-weight: 600;
+}
+.card-actions{
+  text-align: right;
+}
